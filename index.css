@@ -105,7 +105,9 @@
 }
 
 /* Contact Us section */
-
+::placeholder {
+    color:white !important;
+}
 #contactUs {
     height: auto;
     padding-bottom: 2rem;
