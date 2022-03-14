@@ -34,11 +34,15 @@
 
 #mouseIcon {
     margin: auto auto 5vh auto;
-    animation: bounce 2s infinite;
+    animation: bounce 1s infinite;
 }
 
 #mouseIcon:hover {
     animation-play-state: paused;
+}
+
+#welcomeText {
+    margin-bottom: 15%;
 }
 
 @-webkit-keyframes bounce {
