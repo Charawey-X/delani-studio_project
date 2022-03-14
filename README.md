@@ -1,6 +1,6 @@
 # Delani Studio
 ## Description
-This a website for a design company called Delani Studio showing a description of some services they offer, portfolio of past projects, and a way to contact them.
+This is a website for a design company called Delani Studio showing a description of some services they offer, portfolio of past projects, and how to contact them.
 ## Setup Instructions
 > Click on the image below to view website:
 
