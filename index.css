@@ -4,7 +4,7 @@
 }
 
 #header {
-    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-image: url("assets/backgrounds/h_img.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -93,7 +93,7 @@
 }
 
 #services {
-    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-image: url("assets/backgrounds/s_image.jpg");
     background-size: cover;
     background-position: center;
     height: auto;
@@ -119,7 +119,7 @@
     /* position: absolute;
     left: 0;
     right: 0; */
-    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-image: url("assets/backgrounds/c_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
